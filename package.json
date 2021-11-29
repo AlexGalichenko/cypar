@@ -1,0 +1,26 @@
+{
+  "name": "cypar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexGalichenko/cypar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGalichenko/cypar/issues"
+  },
+  "homepage": "https://github.com/AlexGalichenko/cypar#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "cypress": "^9.1.0",
+    "fastq": "^1.13.0",
+    "glob": "^7.2.0",
+    "uuid": "^8.3.2"
+  }
+}
